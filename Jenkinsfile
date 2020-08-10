@@ -2,8 +2,7 @@ pipeline {
   environment {
     registry = 'registry.hub.docker.com'
     registryCredential = 'docker-hub'
-    repository = 'pvnovarese/jenkins-grype-demo'
-    imageLine = 'pvnovarese/jenkins-grype-demo:latest'
+    repository = 'pvnovarese/jenkins-simple'
   }
   agent any
   stages {
