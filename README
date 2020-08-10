@@ -1,1 +1,1 @@
-This is a pretty simple jenkinsfile that just builds a dummy image and pushes it to docker hub.  good for making sure that jenkins is running correctly and that we've got the proper credentials 
+This is a pretty simple jenkinsfile that just builds a dummy image and pushes it to docker hub.  good for making sure that jenkins is running correctly and that we've got the proper credentials and connectivity to docker hub. 
